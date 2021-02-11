@@ -5,7 +5,7 @@ This repository contains the code implementation of the developed Kalman Filters
 
 
 ## Purpose
-The project consists on the utilisation of Kalman Filters for correcting GPS positioning errors when a vehicle drive in urban and interurban environments. The data is owned by Universidad Carlos III de Madrid and was collected in Madrid city, Leganés and roads between these two cities in the Madrid Region in Spain.
+The project consists on the utilisation of Kalman Filters for correcting GPS positioning errors when a vehicle drives in urban and interurban environments. The data is owned by Universidad Carlos III de Madrid and was collected in Madrid city, Leganés and roads between these two cities in the Madrid Region in Spain.
 
 
 
