@@ -13,3 +13,9 @@ The project consists on the utilisation of Kalman Filters for correcting GPS pos
 The thesis is available at: 
 
 https://bibliotecas.uc3m.es/primo-explore/fulldisplay?docid=34UC3M_DSP10016%2F31696&vid=34UC3M_VU1&search_scope=TAB1_SCOPE1&tab=tab1&lang=es_ES&context=L
+
+
+## Rights
+Attribution-NonCommercial-NoDerivs 3.0 Span (CC BY-NC-ND 3.0 ES)
+
+More information at: https://creativecommons.org/licenses/by-nc-nd/3.0/es/deed.en
